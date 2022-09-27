@@ -1,0 +1,1 @@
+<h1>Welcome to this CI-News Home Page.</h1>
